@@ -3,7 +3,7 @@
 library(tidyverse)
 library(janitor)
 
-#teste
+#teste 2
 
 roda_regressao = function(bog_rf, ibov_rf, smb, hml, wml){
 
